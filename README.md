@@ -15,9 +15,10 @@ Informationen, die wir benötigen:
 - eine Überschrift, die das Problem auf den Punkt bringt.
 - eine ausführliche Problembeschreibung. Gerne mit einem Screenshot falls möglich oder nötig.
 - eine Zeit falls es sich um einen internen Serverfehler handelt und wir die logfiles konsultieren müssen.
+- den genutzen Browser inklusive der genutzten Version
  
 optionale Informationen:
-- bevorzugter Kontakt (bei E-Mail)
+- bevorzugter Kontakt (bei E-Mail) - ansonsten melden wir uns bei der Absenderadresse.
 
 Feature Requests, die per E-Mail eingehen, werden in Tickets übertragen und als erledigt markiert sobald diese verfügbar sind. Wir geben uns Mühe, Sie persönlich über die Fertigstellung zu informieren.
 
