@@ -1,5 +1,7 @@
 # YABS
 
+[![Join the chat at https://gitter.im/j0h/YABSTracker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/j0h/YABSTracker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Willkommen. Hier finden Sie verschiedene Materialien, die Ihnen helfen sollen, YABS einzusetzen. Dieses Repository dient zur Bereitstellung einer Bedienungsanleitung und als Bugtracker. **Falls Sie einen Fehler finden, bitten wir Sie den nächsten Abschnitt gründlich zu lesen**
 
 
